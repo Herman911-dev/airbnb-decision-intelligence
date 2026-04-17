@@ -1,0 +1,12 @@
+# Ignorer les données
+data/raw/
+data/processed/
+
+# Ignorer les environnements virtuels Python
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Ignorer les fichiers de configuration système
+.DS_Store
