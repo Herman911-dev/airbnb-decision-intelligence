@@ -20,7 +20,7 @@ Suite à une indisponibilité des données de prix sur l'extraction actuelle, le
 * **Disponibilité (`availability_365`)** : Corrélation forte entre succès et taux d'occupation.
 * **Localisation (`latitude`)** : Importance cruciale du positionnement géographique dans Paris.
 
-## 🛠️ Installation et Utilisation
+## Installation et Utilisation
 ```bash
 # Initialiser l'environnement
 pip install -r requirements.txt
